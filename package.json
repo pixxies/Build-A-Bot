@@ -1,0 +1,17 @@
+{
+    "name": "Build-A-Bot",
+    "description": "Top.gg Build-A-Bot Event",
+    "version": "1.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "*",
+        "@discordjs/rest": "*",
+        "dotenv": "^16.0.0"
+    },
+    "engines": {
+        "node": "16.x"
+    }
+}
