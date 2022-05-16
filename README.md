@@ -32,3 +32,6 @@ For more help we encourage you to use the **#development** channel in the [Top.g
 - [discord.js GitHub](https://github.com/discordjs/discord.js)
 - [An Idiot's Guide](https://anidiots.guide/)
 - [Discord Bot Permissions Calculator](https://discordapi.com/permissions.html)
+
+## Resources used in this project
+- [Capybara images hosted on imgur.com](https://imgur.com/a/6BSGwIO)
